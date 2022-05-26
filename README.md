@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bran-hardy
 - 👀 I'm interested in lots of different things, but I tend to lean more towards visual program simulations.
-- 🌱 I’m currently learning Python, but I am planning to attend a school soon for computer programming.
+- 🌱 I’m currently learning Python, C#, and Web Development related languages (HTML, CSS, JavaScript)
 - 📫 You can reach me by my email: bhardy.william@gmail.com
 
 <!---
