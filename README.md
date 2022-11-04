@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bran-hardy
 - 👀 I'm interested in lots of different things, but I tend to lean more towards visual program simulations.
 - 🌱 I’m currently learning Python, C#, and Web Development related languages (HTML, CSS, JavaScript)
-- 📫 You can reach me by my email: bhardy.william@gmail.com
 
 <!---
 bran-hardy/bran-hardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
